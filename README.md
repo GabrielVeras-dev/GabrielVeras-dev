@@ -5,5 +5,5 @@ Estudo com um foco a mais em frontend, nas tecnologias de HTML e CSS, JS e atual
 Na universidade tive experiência com C++ , JAVA e JAVA WEB, realizei pequenos e médios projetos para obtenção de conhecimento, onde em JAVA WEB aprimorei meus conhecimentos em html e css, já que nunca tinha utilizado com JAVA, somente com PHP antes em um curso pago.
 Além disso, possuo conhecimento também em Banco de Dados, já usei para alguns pequenos projetos da universidade os sgdb MySQL Workbench,
 SQL Server e PhpAdmin.
-Estou em busca de emprego na área, pois atualmente trabalho como Suporte N2.
+Estou em busca de novos desafios na área de desenvolvimento.
 Sou dedicado e esforçado para me desenvolver tanto o pessoal quando o profissional, buscando sempre novos desafios e ajudar no que eu puder.
