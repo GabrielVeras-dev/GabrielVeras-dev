@@ -1,9 +1,26 @@
-Olá, eu sou o @GabrielVeras-dev. Tenho 20 anos e gosto muito de programação, principalmente em FrontEnd.
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
-Atualmente tenho conhecimento em todo o processo de software, desde a criação da documentação ao software pronto.
-Estudo com um foco a mais em frontend, nas tecnologias de HTML e CSS, JS e atualmente estudando React.JS e aprimorando meus conhecimentos em JS.
-Na universidade tive experiência com C++ , JAVA e JAVA WEB, realizei pequenos e médios projetos para obtenção de conhecimento, onde em JAVA WEB aprimorei meus conhecimentos em html e css, já que nunca tinha utilizado com JAVA, somente com PHP antes em um curso pago.
-Além disso, possuo conhecimento também em Banco de Dados, já usei para alguns pequenos projetos da universidade os sgdb MySQL Workbench,
-SQL Server e PhpAdmin.
-Estou em busca de novos desafios na área de desenvolvimento.
-Sou dedicado e esforçado para me desenvolver tanto o pessoal quando o profissional, buscando sempre novos desafios e ajudar no que eu puder.
+## Olá! Eu sou o Gabriel Veras
+
+Formado pela Universidade Católica de Brasília em Análise e Desenvolvimento de Sistemas, procuro por um primeiro emprego na área de desenvolvimento de sistemas para me desenvolver profissionalmente na área. 
+Sou uma pessoa que sempre busca conhecimento e não medo esforço para isso, focado, paciente, e sempre tentando aprender com os erros para um desenvolvimento melhor da minha pessoa, uso a crítica para evolução, gosto de aprender tecnologias da área de programação, tanto no frontend quanto no backend, pois busco ser um desenvolvedor fullstack. <blockquote>
+Disponível para contato.<blockquote>
+Disponível para trabalho home office. <blockquote>
+Atualmente estudando Typescript e ReactJs.
+
+<div>
+  <a href="https://github.com/GabrielVeras-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVeras-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_printe=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVeras-dev&layout-compact&langs_count=16&theme=tokyonight"/>
+</div>
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  </div>
+  
+  ##
+   <a href = "mailto:bielveras.ec106@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/dev-gabrielveras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
