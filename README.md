@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Veras
 
 Formado pela Universidade Católica de Brasília em Análise e Desenvolvimento de Sistemas, procuro por um primeiro emprego na área de desenvolvimento de sistemas para me desenvolver profissionalmente na área. 
-Sou uma pessoa que sempre busca conhecimento e não medo esforço para isso, focado, paciente, e sempre tentando aprender com os erros para um desenvolvimento melhor da minha pessoa, uso a crítica para evolução, gosto de aprender tecnologias da área de programação, tanto no frontend quanto no backend, pois busco ser um desenvolvedor fullstack. <blockquote>
+Sou uma pessoa que sempre busca conhecimento, focado, paciente, e sempre tentando aprender com os erros para um desenvolvimento melhor da minha pessoa, uso a crítica para evolução, gosto de aprender tecnologias da área de programação, tanto no frontend quanto no backend, pois busco ser um desenvolvedor fullstack. <blockquote>
 Disponível para contato.<blockquote>
 Disponível para trabalho home office. <blockquote>
 Atualmente estudando Typescript e ReactJs.
