@@ -4,7 +4,7 @@ Formado pela Universidade Católica de Brasília em Análise e Desenvolvimento d
 Sou uma pessoa que sempre busca conhecimento, focado, paciente, e sempre tentando aprender com os erros para um desenvolvimento melhor da minha pessoa, uso a crítica para evolução, gosto de aprender tecnologias da área de programação, tanto no frontend quanto no backend, tenho uma preferência a mais pelo backend, mas busco ser um desenvolvedor fullstack. <blockquote>
 Disponível para contato.<blockquote>
 Disponível para trabalho home office. <blockquote>
-Atualmente estudando Typescript e ReactJs.
+Atualmente aprimorando meu conhecimento em Java e SpringBoot.
 
 <div>
   <a href="https://github.com/GabrielVeras-dev">
