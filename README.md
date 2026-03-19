@@ -1,23 +1,29 @@
-## Olá! Eu sou o Gabriel Veras
+# Olá, eu sou o Gabriel Veras 👋
 
-Formado pela Universidade Católica de Brasília em Análise e Desenvolvimento de Sistemas, procuro por um primeiro emprego na área de desenvolvimento de sistemas para me desenvolver profissionalmente na área. 
-Sou uma pessoa que sempre busca conhecimento, focado, paciente, e sempre tentando aprender com os erros para um desenvolvimento melhor da minha pessoa, uso a crítica para evolução, gosto de aprender tecnologias da área de programação, tanto no frontend quanto no backend, tenho uma preferência a mais pelo backend, mas busco ser um desenvolvedor fullstack. <blockquote>
-Disponível para contato.<blockquote>
-Disponível para trabalho home office. <blockquote>
-Atualmente aprimorando meu conhecimento em Java e SpringBoot.
+Sou formado em Análise e Desenvolvimento de Sistemas e tenho experiência profissional na área de infraestrutura, com atuação em suporte técnico, redes, servidores e monitoração de ambientes corporativos.
 
-<div>
-  <a href="https://github.com/GabrielVeras-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVeras-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_printe=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVeras-dev&layout-compact&langs_count=16&theme=tokyonight"/>
-</div>
+Atualmente, estou direcionando minha carreira para o desenvolvimento backend com foco em **Java**, área em que sempre me destaquei durante a faculdade.
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  </div>
-  
+## Foco atual
+- Desenvolvimento backend com Java
+- Spring Boot
+- APIs REST
+- SQL
+- Git e versionamento
+- Boas práticas de desenvolvimento
+
+## Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Experiência anterior
+- Infraestrutura de TI
+- Suporte técnico N1 ao N3
+- Redes e servidores
+- Monitoração com Zabbix e Grafana
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/dev-gabrielveras/)
+- [Portfólio](https://portfolio-gabrielveras-dev.vercel.app/)
