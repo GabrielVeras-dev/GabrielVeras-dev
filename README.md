@@ -18,6 +18,8 @@ Tenho experiência com suporte técnico, redes e monitoramento de ambientes corp
 
 Hoje, meu foco está no desenvolvimento de aplicações web modernas utilizando arquitetura REST e boas práticas de desenvolvimento.
 
+(GITHUB EM REFORMULAÇÃO NOS PROJETOS)
+
 ---
 
 ## 🎯 Foco Atual
