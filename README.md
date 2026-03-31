@@ -16,7 +16,7 @@ e <b>Angular</b> no frontend.
 
 Tenho experiência com suporte técnico, redes e monitoramento de ambientes corporativos, o que fortaleceu minha base em lógica, resolução de problemas e funcionamento de sistemas em produção.
 
-Hoje, meu foco está no desenvolvimento de aplicações web modernas utilizando arquitetura REST e boas práticas de desenvolvimento.
+Hoje, meu foco está em obter conhecimento em desenvolvimento backend utilizando Java e seus frameworks.
 
 (GITHUB EM REFORMULAÇÃO NOS PROJETOS)
 
