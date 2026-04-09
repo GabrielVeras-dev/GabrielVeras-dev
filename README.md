@@ -56,6 +56,7 @@ Hoje, meu foco está em obter conhecimento em desenvolvimento backend utilizando
 
 - 💼 LinkedIn: https://linkedin.com/in/dev-gabrielveras
 - 🌐 Portfólio: https://portfolio-gabrielveras-dev.vercel.app/
+- 🌐 Portfólio com temática no jogo Elden Ring: https://github.com/GabrielVeras-dev/portfolio-eldenring
 
 ---
 
